@@ -15,9 +15,9 @@ public class Ejercicio01 {
         residuo = numeroIngresado%10;
 
         if (residuo == 0){
-            JOptionPane.showMessageDialog(null, "El número ingresado es multiplo de 10");
+            JOptionPane.showMessageDialog(null, "El número "+numeroIngresado +   " es multiplo de 10");
         } else {
-            JOptionPane.showMessageDialog(null, "El número ingresado NO es multiplo de 10");
+            JOptionPane.showMessageDialog(null, "El número "+numeroIngresado +   " NO es multiplo de 10");
         }
 
     }
