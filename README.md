@@ -2,6 +2,8 @@
 
 ## Aprende Programación en Java (de Básico a Avanzado)
 
+Este repositorio almacena algunos de los ejercicios propuestos durante el dearrollo del curso *Aprende Programación en Java (de Básico a Avanzado)* de Alejandro Miguel Taboada Sanchez
+
 https://www.udemy.com/course/aprende-programacion-en-java-desde-cero/
 
 https://ibmcsr.udemy.com/course/aprende-programacion-en-java-desde-cero
