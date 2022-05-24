@@ -12,11 +12,11 @@ public class Ejercicio06_Condicionales {
          numero1 = Integer.parseInt(JOptionPane.showInputDialog("Digite el primer número"));
          numero2 = Integer.parseInt(JOptionPane.showInputDialog("Digite el segundo número"));
 
-         if(numero1 %2 == 0 && numero2 %2 == 0){
+         if((numero1 %2 == 0) && (numero2 %2 == 0)){
              JOptionPane.showMessageDialog(null, "ambos números son pares");
-         } else if (numero1 %2 == 0 && numero2 %2 != 0){
+         } else if ((numero1 %2 == 0) && (numero2 %2 != 0)){
              JOptionPane.showMessageDialog(null, "Solo el primer número es par");
-         } else if (numero1 %2 != 0 && numero2 %2 == 0){
+         } else if ((numero1 %2 != 0) && (numero2 %2 == 0)){
              JOptionPane.showMessageDialog(null, "Solo el segundo número es par");
          } else {
              JOptionPane.showMessageDialog(null, "Ambos números son Impares");
