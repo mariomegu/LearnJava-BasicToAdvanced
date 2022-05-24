@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=2ZXiuh0rg3M&list=PLWtYZ2ejMVJkjOuTCzIk61j7XKfpIR
 [![Backers on Open Collective](https://img.shields.io/opencollective/backers/bootstrap)](#backers)
 [![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/bootstrap)](#sponsors)
 
-https://img.shields.io/github/issues/mariomegu/LearnJava-BasicToAdvanced
+![issues](https://img.shields.io/github/issues/mariomegu/LearnJava-BasicToAdvanced)
 https://img.shields.io/github/forks/mariomegu/LearnJava-BasicToAdvanced
 https://img.shields.io/github/stars/mariomegu/LearnJava-BasicToAdvanced
 https://img.shields.io/github/license/mariomegu/LearnJava-BasicToAdvanced
