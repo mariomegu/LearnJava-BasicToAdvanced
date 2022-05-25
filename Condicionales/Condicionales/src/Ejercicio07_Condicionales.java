@@ -20,7 +20,7 @@ public class Ejercicio07_Condicionales {
              JOptionPane.showMessageDialog(null, "El orden correcto de mayor a menor es: "+numero2 + numero1 + numero3);
          } else if (numero2 > numero1 && numero3 > numero1){
              JOptionPane.showMessageDialog(null, "El orden correcto de mayor a menor es: "+numero2 + numero3 + numero1);
-         }else if (numero3 > numero1 && numero1 > numer)
+         }else if (numero3 > numero1 && numero1 > numero3);
 
 
 
